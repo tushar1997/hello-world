@@ -1,5 +1,5 @@
 # hello-world
 
-Hi Friends
+Hi Friends !
 
-Tushar here ! I like Cpp Programming 
+Tushar here, I like Cpp Programming 
